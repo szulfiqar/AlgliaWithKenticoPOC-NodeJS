@@ -1,7 +1,7 @@
 # Algolia POC
 
-Please see the README files for following in order to run the test
+Please see the README files for following in order to run the
 
-1. Server
+**Server**
 
-Use command to build and run the API: npm run build:start
+Use command to build and run the API: **npm run build:start**
