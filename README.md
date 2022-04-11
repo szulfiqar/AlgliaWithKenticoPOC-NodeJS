@@ -1,7 +1,11 @@
-# Algolia POC
+Steps to run the backend api application
 
-Please see the README files for following in order to run the
+1. `npm install`
+2. `npm run dev` to run the dev server
 
-**Server**
+To host this
 
-Use command to build and run the API: **npm run build:start**
+1. `npm install`
+2. `npm run build`
+
+This `npm run build` will create a build folder
